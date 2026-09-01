@@ -7,4 +7,4 @@ This repository will contain detailed documents data on data analysis cycle. For
   - https://public.tableau.com/app/profile/urban.vidmar/vizzes is a link to Tableau website with publicly available data story presentation for dataset.
     - since there are a lot of aspects that can be researched, I plan to make multiple story views
   - SteamGamesReport.pdf contains detailed report on findings about dataset made through Tableau (each story dashboard on link explained individually).
-    -since I plan to make multiple views (separate data stories) I will also make multiple reports for easier navigation. 
+    - since I plan to make multiple views (separate data stories) I will also make multiple reports for easier navigation. 
